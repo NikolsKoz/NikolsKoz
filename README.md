@@ -1,6 +1,6 @@
 <div align="center">
   <div id="header">
-    <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="150"/>
   </div><br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9-%D0%BA%D0%BE%D0%B7%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2-41b221207/">
@@ -59,5 +59,5 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" height="280"/>
 </div>
