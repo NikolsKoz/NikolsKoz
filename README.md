@@ -12,6 +12,9 @@
     <a href="https://www.facebook.com/profile.php?id=100017453857069&mibextid=ZbWKwL">
       <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
     </a>
+     <a href="https://t.me/Nikolas82NG">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
