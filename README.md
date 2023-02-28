@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from Ukraine <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="40">.
-- :telescope: Completed at <img src="https://edu.cbsystematics.com/assets/img/site/cbs-logo-white.svg" width="100"> on the Front End developer course.
+- :telescope: Passed the Front End Developer course <img src="https://edu.cbsystematics.com/assets/img/site/cbs-logo-white.svg" width="100">.
 
 - :seedling: Exploring Technical Content Writing.
 
