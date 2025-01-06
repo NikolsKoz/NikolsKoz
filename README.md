@@ -28,14 +28,14 @@
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from Ukraine <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="40">.
 - :telescope: Passed the Front End Developer course <img src="https://edu.cbsystematics.com/assets/img/site/cbs-logo-white.svg" width="100">.
-- Passion for creating user interfaces.
-- Interest in new technologies and tools.
-- Love clean and maintainable code.
-- Passion for optimization and performance.
-- Passion for design and user interaction (I love collaborating with designers to bring visual ideas to life and improve user experience).
-- Eagerness to learn and share knowledge.
-- Focus on testing and product quality.
-- Love teamwork and agile methods.
+- :zap: Passion for creating user interfaces.
+- :zap: Interest in new technologies and tools.
+- :zap: Love clean and maintainable code.
+- :zap: Passion for optimization and performance.
+- :zap: Passion for design and user interaction (I love collaborating with designers to bring visual ideas to life and improve user experience).
+- :seedling: Eagerness to learn and share knowledge.
+- :zap: Focus on testing and product quality.
+- :zap: Love teamwork and agile methods.
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Stepik and read tech articles.
