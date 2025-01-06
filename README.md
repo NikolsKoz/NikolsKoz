@@ -52,7 +52,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="WSC"  alt="WSC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.2.0/1558040563649/Microsoft.VisualStudio.Services.Icons.Default" width="150" height="150">&nbsp;
+  <img src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.2.0/1558040563649/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40">&nbsp;
 </div>
 
 ---
