@@ -26,6 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">&nbsp;
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from Ukraine <img src="https://rotary.de/media/artikel/online/19775/wwwgr_dove-7049752.jpg" width="40">.
 - :zap: Passion for creating user interfaces.
 - :telescope: Interest in new technologies and tools.
