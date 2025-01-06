@@ -1,5 +1,6 @@
 <div align="center">
   <div id="header">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZkZW4wbXh2ajgwZTA0dzJiNnllZnMzZzJiaWZ0bWN4ZDFvbzFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgNp1w1hhRoG1Zvhhi/giphy.webp" width="150">
     <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="150"/>
   </div><br>
   <div id="badges">
@@ -25,8 +26,7 @@
 
 ---
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZkZW4wbXh2ajgwZTA0dzJiNnllZnMzZzJiaWZ0bWN4ZDFvbzFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgNp1w1hhRoG1Zvhhi/giphy.webp" width="60">  ### :man_technologist: About Me : 
-
+### :man_technologist: About Me : 
 I am a Front End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from Ukraine <img src="https://rotary.de/media/artikel/online/19775/wwwgr_dove-7049752.jpg" width="40">.
 - :zap: Passion for creating user interfaces.
 - :telescope: Interest in new technologies and tools.
