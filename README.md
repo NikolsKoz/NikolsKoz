@@ -27,18 +27,14 @@
 
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from Ukraine <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="40">.
-- :telescope: Passed the Front End Developer course <img src="https://edu.cbsystematics.com/assets/img/site/cbs-logo-white.svg" width="100">.
 - :zap: Passion for creating user interfaces.
-- :zap: Interest in new technologies and tools.
+- :telescope: Interest in new technologies and tools.
 - :zap: Love clean and maintainable code.
 - :zap: Passion for optimization and performance.
 - :zap: Passion for design and user interaction (I love collaborating with designers to bring visual ideas to life and improve user experience).
 - :seedling: Eagerness to learn and share knowledge.
-- :zap: Focus on testing and product quality.
+- :telescope: Focus on testing and product quality.
 - :zap: Love teamwork and agile methods.
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Stepik and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mykola-kozlenkov-41b221207/)
 
