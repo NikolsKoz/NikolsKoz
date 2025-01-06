@@ -1,7 +1,6 @@
 <div align="center">
   <div id="header">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZkZW4wbXh2ajgwZTA0dzJiNnllZnMzZzJiaWZ0bWN4ZDFvbzFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgNp1w1hhRoG1Zvhhi/giphy.webp" width="150">
-    <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="150"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZkZW4wbXh2ajgwZTA0dzJiNnllZnMzZzJiaWZ0bWN4ZDFvbzFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgNp1w1hhRoG1Zvhhi/giphy.webp" width="160">
   </div><br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/mykola-kozlenkov-41b221207/">
